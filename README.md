@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 前端道路永无止境，开发个人博客，记录在前端道路上的历程。
+### 前端道路永无止境
 > 联系方式：1010161292@qq.com
