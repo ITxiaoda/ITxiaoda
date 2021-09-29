@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 前端道路永无止境
+### 永无止境，从不停止
 > 联系方式：1010161292@qq.com
